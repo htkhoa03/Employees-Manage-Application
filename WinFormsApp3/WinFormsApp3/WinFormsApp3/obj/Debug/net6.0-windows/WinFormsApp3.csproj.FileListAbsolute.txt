@@ -1,0 +1,60 @@
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AdminForm.resources
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.HumanResourceAdminForm.resources
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.HumanResourceUserForm.resources
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.LoginForm.resources
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.UserForm.resources
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+D:\Học Tập\Winform\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.NhatKy.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AdminForm.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.HumanResourceAdminForm.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.HumanResourceUserForm.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.UserForm.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinForms.D7CF0A35.Up2Date
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AcountantForm.resources
+C:\Users\thanh\Downloads\Demo_DoAn_Nhom2_QuanLyNhanVien\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AuditLogViewer.resources

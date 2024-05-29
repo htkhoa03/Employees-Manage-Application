@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\thanh\\downloads\\demo_doan_nhom2_quanlynhanvien\\winformsapp3\\winformsapp3\\winformsapp3\\humanresourceuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\humanresourceuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\humanresourceuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\humanresourceuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\humanresourceadminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\humanresourceadminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\humanresourceadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\humanresourceadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\auditlogviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\auditlogviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\auditlogviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\auditlogviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\accountantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\accountantform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\accountantform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\auditlogviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\auditlogviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\humanresourceadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\humanresourceadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\humanresourceuserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\humanresourceuserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF23FB-5E09-4B99-95DE-4F3D4F2F12EC}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AdminForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\AdminForm.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:46:05.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AdminForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:42:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AdminForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\AdminForm.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:42:36.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\UserForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\UserForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\UserForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\UserForm.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:18:03.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\UserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\UserForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\UserForm.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:17:47.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\UserForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\UserForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\UserForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:17:41.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountantForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AccountantForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AccountantForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AccountantForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\AccountantForm.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:48:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountantForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AccountantForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AccountantForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AccountantForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\AccountantForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:44:35.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountantForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AccountantForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AccountantForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AccountantForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\AccountantForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:35:48.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\LoginForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\LoginForm.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:39:12.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLogViewer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AuditLogViewer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AuditLogViewer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AuditLogViewer.cs",
+              "RelativeToolTip": "WinFormsApp3\\AuditLogViewer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HumanResourceUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceUserForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\HumanResourceUserForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceUserForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\HumanResourceUserForm.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAgwNsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\LoginForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\LoginForm.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAgwGcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:04.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:04.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\Program.cs",
+              "RelativeToolTip": "WinFormsApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:04.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HumanResourceAdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceAdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\HumanResourceAdminForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceAdminForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\HumanResourceAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HumanResourceAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceAdminForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\HumanResourceAdminForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceAdminForm.cs",
+              "RelativeToolTip": "WinFormsApp3\\HumanResourceAdminForm.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAgwOIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuditLogViewer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AuditLogViewer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AuditLogViewer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AuditLogViewer.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\AuditLogViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:05.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HumanResourceUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceUserForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\HumanResourceUserForm.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceUserForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\HumanResourceUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:05.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditLogViewer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AuditLogViewer.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\AuditLogViewer.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\AuditLogViewer.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\AuditLogViewer.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:05.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HumanResourceAdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceAdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\HumanResourceAdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceAdminForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\HumanResourceAdminForm.Designer.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAgwDABAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:05.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HumanResourceUserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceUserForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\HumanResourceUserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\Demo_DoAn_Nhom2_QuanLyNhanVien\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3\\HumanResourceUserForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp3\\HumanResourceUserForm.Designer.cs",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAgwCQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:58:05.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
